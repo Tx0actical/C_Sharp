@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringOps\\StringOps.csproj": {}
+    "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringOps\\StringOps.csproj": {
+    "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringOps\\StringOps.csproj",
-        "projectName": "StringOps",
-        "projectPath": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringOps\\StringOps.csproj",
+        "projectUniqueName": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj",
+        "projectName": "StringFormatting",
+        "projectPath": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj",
         "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringOps\\obj\\",
+        "outputPath": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config"
