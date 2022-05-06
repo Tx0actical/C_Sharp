@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj": {}
+    "/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/StringFormatting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj": {
+    "/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/StringFormatting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj",
+        "projectUniqueName": "/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/StringFormatting.csproj",
         "projectName": "StringFormatting",
-        "projectPath": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\StringFormatting.csproj",
-        "packagesPath": "C:\\Users\\abc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abc\\source\\C_Sharp\\Strings\\StringFormatting\\obj\\",
+        "projectPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/StringFormatting.csproj",
+        "packagesPath": "/Users/blackbird/.nuget/packages/",
+        "outputPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/blackbird/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
