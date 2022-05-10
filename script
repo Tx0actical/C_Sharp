@@ -9,4 +9,3 @@ echo "[*] Pushing changes to remote"
 git push origin main && 
 echo "[*] Updating local"
 git pull origin main
-

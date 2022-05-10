@@ -22,22 +22,19 @@ namespace Palindrome
         static (bool, int) IsPalindrome (string _instr) {
             bool CheckPalindrome = false;
             string _reversestr = string.Empty;
-            string _temp, _lowercase;
 
             // Function to remove punctuation
             _instr = RemovePunctuation (_instr);
             // Function to remove spaces
-            string trim = Regex.Replace(_instr, @"s", "" );
-            _instr = trim;
+            _instr = Regex.Replace(_instr, @"s", "" );
             // Function to convert upper to lower case
-            _temp = _instr;
-            _lowercase = _temp.ToLower(); // *********Not converting to lowercase*******
+            _instr = _instr.ToLower(); // *********Not converting to lowercase*******
 
-            if(_lowercase != null) {
-                for (int i = _lowercase.Length - 1; i >= 0; i--) {
-                    _reversestr += _lowercase[i].ToString();
+            if(_instr != null) {
+                for (int i = _instr.Length - 1; i >= 0; i--) {
+                    _reversestr += _instr[i].ToString();
                 }
-                if (_reversestr == _lowercase)
+                if (_reversestr == _instr)
                     CheckPalindrome = true;
                 return (CheckPalindrome, _reversestr.Length);
             }
