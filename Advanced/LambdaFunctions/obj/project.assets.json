@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Challenge2/Challenge2.csproj",
-      "projectName": "Challenge2",
-      "projectPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Challenge2/Challenge2.csproj",
+      "projectUniqueName": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/LambdaFunctions.csproj",
+      "projectName": "LambdaFunctions",
+      "projectPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/LambdaFunctions.csproj",
       "packagesPath": "/Users/blackbird/.nuget/packages/",
-      "outputPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Challenge2/obj/",
+      "outputPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/blackbird/.nuget/NuGet/NuGet.Config"
