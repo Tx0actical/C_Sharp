@@ -20,7 +20,7 @@ namespace Parsing
                 // Use Parse to try a simple integer
                 targetNum = int.Parse(numstr1);
                 Console.WriteLine(targetNum);
-
+                
                 // use Parse to try a floating point number
                 // only works if the decimal value is zero
                 targetNum = int.Parse(numstr2, NumberStyles.Float);

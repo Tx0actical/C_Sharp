@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/LambdaFunctions.csproj": {}
+    "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/Lambdas.csproj": {}
   },
   "projects": {
-    "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/LambdaFunctions.csproj": {
+    "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/Lambdas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/LambdaFunctions.csproj",
-        "projectName": "LambdaFunctions",
-        "projectPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/LambdaFunctions.csproj",
+        "projectUniqueName": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/Lambdas.csproj",
+        "projectName": "Lambdas",
+        "projectPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/Lambdas.csproj",
         "packagesPath": "/Users/blackbird/.nuget/packages/",
-        "outputPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/LambdaFunctions/obj/",
+        "outputPath": "/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/blackbird/.nuget/NuGet/NuGet.Config"
